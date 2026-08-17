@@ -2,51 +2,51 @@
 
 Total de partes: 48
 
-- [Parte 1](001.md)
-- [Parte 2](002.md)
-- [Parte 3](003.md)
-- [Parte 4](004.md)
-- [Parte 5](005.md)
-- [Parte 6](006.md)
-- [Parte 7](007.md)
-- [Parte 8](008.md)
-- [Parte 9](009.md)
-- [Parte 10](010.md)
-- [Parte 11](011.md)
-- [Parte 12](012.md)
-- [Parte 13](013.md)
-- [Parte 14](014.md)
-- [Parte 15](015.md)
-- [Parte 16](016.md)
-- [Parte 17](017.md)
-- [Parte 18](018.md)
-- [Parte 19](019.md)
-- [Parte 20](020.md)
-- [Parte 21](021.md)
-- [Parte 22](022.md)
-- [Parte 23](023.md)
-- [Parte 24](024.md)
-- [Parte 25](025.md)
-- [Parte 26](026.md)
-- [Parte 27](027.md)
-- [Parte 28](028.md)
-- [Parte 29](029.md)
-- [Parte 30](030.md)
-- [Parte 31](031.md)
-- [Parte 32](032.md)
-- [Parte 33](033.md)
-- [Parte 34](034.md)
-- [Parte 35](035.md)
-- [Parte 36](036.md)
-- [Parte 37](037.md)
-- [Parte 38](038.md)
-- [Parte 39](039.md)
-- [Parte 40](040.md)
-- [Parte 41](041.md)
-- [Parte 42](042.md)
-- [Parte 43](043.md)
-- [Parte 44](044.md)
-- [Parte 45](045.md)
-- [Parte 46](046.md)
-- [Parte 47](047.md)
-- [Parte 48](048.md)
+- Parte 1: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/001.md
+- Parte 2: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/002.md
+- Parte 3: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/003.md
+- Parte 4: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/004.md
+- Parte 5: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/005.md
+- Parte 6: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/006.md
+- Parte 7: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/007.md
+- Parte 8: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/008.md
+- Parte 9: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/009.md
+- Parte 10: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/010.md
+- Parte 11: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/011.md
+- Parte 12: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/012.md
+- Parte 13: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/013.md
+- Parte 14: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/014.md
+- Parte 15: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/015.md
+- Parte 16: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/016.md
+- Parte 17: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/017.md
+- Parte 18: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/018.md
+- Parte 19: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/019.md
+- Parte 20: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/020.md
+- Parte 21: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/021.md
+- Parte 22: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/022.md
+- Parte 23: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/023.md
+- Parte 24: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/024.md
+- Parte 25: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/025.md
+- Parte 26: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/026.md
+- Parte 27: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/027.md
+- Parte 28: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/028.md
+- Parte 29: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/029.md
+- Parte 30: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/030.md
+- Parte 31: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/031.md
+- Parte 32: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/032.md
+- Parte 33: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/033.md
+- Parte 34: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/034.md
+- Parte 35: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/035.md
+- Parte 36: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/036.md
+- Parte 37: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/037.md
+- Parte 38: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/038.md
+- Parte 39: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/039.md
+- Parte 40: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/040.md
+- Parte 41: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/041.md
+- Parte 42: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/042.md
+- Parte 43: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/043.md
+- Parte 44: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/044.md
+- Parte 45: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/045.md
+- Parte 46: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/046.md
+- Parte 47: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/047.md
+- Parte 48: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/licitacoes/jose-calasans/048.md

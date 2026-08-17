@@ -2,85 +2,85 @@
 
 Total de partes: 82
 
-- [Parte 1](001.md)
-- [Parte 2](002.md)
-- [Parte 3](003.md)
-- [Parte 4](004.md)
-- [Parte 5](005.md)
-- [Parte 6](006.md)
-- [Parte 7](007.md)
-- [Parte 8](008.md)
-- [Parte 9](009.md)
-- [Parte 10](010.md)
-- [Parte 11](011.md)
-- [Parte 12](012.md)
-- [Parte 13](013.md)
-- [Parte 14](014.md)
-- [Parte 15](015.md)
-- [Parte 16](016.md)
-- [Parte 17](017.md)
-- [Parte 18](018.md)
-- [Parte 19](019.md)
-- [Parte 20](020.md)
-- [Parte 21](021.md)
-- [Parte 22](022.md)
-- [Parte 23](023.md)
-- [Parte 24](024.md)
-- [Parte 25](025.md)
-- [Parte 26](026.md)
-- [Parte 27](027.md)
-- [Parte 28](028.md)
-- [Parte 29](029.md)
-- [Parte 30](030.md)
-- [Parte 31](031.md)
-- [Parte 32](032.md)
-- [Parte 33](033.md)
-- [Parte 34](034.md)
-- [Parte 35](035.md)
-- [Parte 36](036.md)
-- [Parte 37](037.md)
-- [Parte 38](038.md)
-- [Parte 39](039.md)
-- [Parte 40](040.md)
-- [Parte 41](041.md)
-- [Parte 42](042.md)
-- [Parte 43](043.md)
-- [Parte 44](044.md)
-- [Parte 45](045.md)
-- [Parte 46](046.md)
-- [Parte 47](047.md)
-- [Parte 48](048.md)
-- [Parte 49](049.md)
-- [Parte 50](050.md)
-- [Parte 51](051.md)
-- [Parte 52](052.md)
-- [Parte 53](053.md)
-- [Parte 54](054.md)
-- [Parte 55](055.md)
-- [Parte 56](056.md)
-- [Parte 57](057.md)
-- [Parte 58](058.md)
-- [Parte 59](059.md)
-- [Parte 60](060.md)
-- [Parte 61](061.md)
-- [Parte 62](062.md)
-- [Parte 63](063.md)
-- [Parte 64](064.md)
-- [Parte 65](065.md)
-- [Parte 66](066.md)
-- [Parte 67](067.md)
-- [Parte 68](068.md)
-- [Parte 69](069.md)
-- [Parte 70](070.md)
-- [Parte 71](071.md)
-- [Parte 72](072.md)
-- [Parte 73](073.md)
-- [Parte 74](074.md)
-- [Parte 75](075.md)
-- [Parte 76](076.md)
-- [Parte 77](077.md)
-- [Parte 78](078.md)
-- [Parte 79](079.md)
-- [Parte 80](080.md)
-- [Parte 81](081.md)
-- [Parte 82](082.md)
+- Parte 1: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/001.md
+- Parte 2: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/002.md
+- Parte 3: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/003.md
+- Parte 4: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/004.md
+- Parte 5: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/005.md
+- Parte 6: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/006.md
+- Parte 7: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/007.md
+- Parte 8: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/008.md
+- Parte 9: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/009.md
+- Parte 10: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/010.md
+- Parte 11: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/011.md
+- Parte 12: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/012.md
+- Parte 13: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/013.md
+- Parte 14: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/014.md
+- Parte 15: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/015.md
+- Parte 16: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/016.md
+- Parte 17: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/017.md
+- Parte 18: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/018.md
+- Parte 19: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/019.md
+- Parte 20: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/020.md
+- Parte 21: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/021.md
+- Parte 22: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/022.md
+- Parte 23: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/023.md
+- Parte 24: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/024.md
+- Parte 25: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/025.md
+- Parte 26: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/026.md
+- Parte 27: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/027.md
+- Parte 28: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/028.md
+- Parte 29: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/029.md
+- Parte 30: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/030.md
+- Parte 31: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/031.md
+- Parte 32: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/032.md
+- Parte 33: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/033.md
+- Parte 34: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/034.md
+- Parte 35: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/035.md
+- Parte 36: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/036.md
+- Parte 37: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/037.md
+- Parte 38: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/038.md
+- Parte 39: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/039.md
+- Parte 40: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/040.md
+- Parte 41: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/041.md
+- Parte 42: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/042.md
+- Parte 43: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/043.md
+- Parte 44: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/044.md
+- Parte 45: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/045.md
+- Parte 46: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/046.md
+- Parte 47: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/047.md
+- Parte 48: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/048.md
+- Parte 49: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/049.md
+- Parte 50: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/050.md
+- Parte 51: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/051.md
+- Parte 52: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/052.md
+- Parte 53: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/053.md
+- Parte 54: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/054.md
+- Parte 55: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/055.md
+- Parte 56: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/056.md
+- Parte 57: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/057.md
+- Parte 58: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/058.md
+- Parte 59: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/059.md
+- Parte 60: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/060.md
+- Parte 61: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/061.md
+- Parte 62: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/062.md
+- Parte 63: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/063.md
+- Parte 64: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/064.md
+- Parte 65: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/065.md
+- Parte 66: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/066.md
+- Parte 67: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/067.md
+- Parte 68: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/068.md
+- Parte 69: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/069.md
+- Parte 70: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/070.md
+- Parte 71: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/071.md
+- Parte 72: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/072.md
+- Parte 73: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/073.md
+- Parte 74: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/074.md
+- Parte 75: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/075.md
+- Parte 76: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/076.md
+- Parte 77: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/077.md
+- Parte 78: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/078.md
+- Parte 79: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/079.md
+- Parte 80: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/080.md
+- Parte 81: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/081.md
+- Parte 82: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-spitzcovsky/082.md

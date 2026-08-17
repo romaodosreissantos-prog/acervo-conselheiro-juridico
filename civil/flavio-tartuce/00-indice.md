@@ -2,107 +2,107 @@
 
 Total de partes: 104
 
-- [Parte 1](001.md)
-- [Parte 2](002.md)
-- [Parte 3](003.md)
-- [Parte 4](004.md)
-- [Parte 5](005.md)
-- [Parte 6](006.md)
-- [Parte 7](007.md)
-- [Parte 8](008.md)
-- [Parte 9](009.md)
-- [Parte 10](010.md)
-- [Parte 11](011.md)
-- [Parte 12](012.md)
-- [Parte 13](013.md)
-- [Parte 14](014.md)
-- [Parte 15](015.md)
-- [Parte 16](016.md)
-- [Parte 17](017.md)
-- [Parte 18](018.md)
-- [Parte 19](019.md)
-- [Parte 20](020.md)
-- [Parte 21](021.md)
-- [Parte 22](022.md)
-- [Parte 23](023.md)
-- [Parte 24](024.md)
-- [Parte 25](025.md)
-- [Parte 26](026.md)
-- [Parte 27](027.md)
-- [Parte 28](028.md)
-- [Parte 29](029.md)
-- [Parte 30](030.md)
-- [Parte 31](031.md)
-- [Parte 32](032.md)
-- [Parte 33](033.md)
-- [Parte 34](034.md)
-- [Parte 35](035.md)
-- [Parte 36](036.md)
-- [Parte 37](037.md)
-- [Parte 38](038.md)
-- [Parte 39](039.md)
-- [Parte 40](040.md)
-- [Parte 41](041.md)
-- [Parte 42](042.md)
-- [Parte 43](043.md)
-- [Parte 44](044.md)
-- [Parte 45](045.md)
-- [Parte 46](046.md)
-- [Parte 47](047.md)
-- [Parte 48](048.md)
-- [Parte 49](049.md)
-- [Parte 50](050.md)
-- [Parte 51](051.md)
-- [Parte 52](052.md)
-- [Parte 53](053.md)
-- [Parte 54](054.md)
-- [Parte 55](055.md)
-- [Parte 56](056.md)
-- [Parte 57](057.md)
-- [Parte 58](058.md)
-- [Parte 59](059.md)
-- [Parte 60](060.md)
-- [Parte 61](061.md)
-- [Parte 62](062.md)
-- [Parte 63](063.md)
-- [Parte 64](064.md)
-- [Parte 65](065.md)
-- [Parte 66](066.md)
-- [Parte 67](067.md)
-- [Parte 68](068.md)
-- [Parte 69](069.md)
-- [Parte 70](070.md)
-- [Parte 71](071.md)
-- [Parte 72](072.md)
-- [Parte 73](073.md)
-- [Parte 74](074.md)
-- [Parte 75](075.md)
-- [Parte 76](076.md)
-- [Parte 77](077.md)
-- [Parte 78](078.md)
-- [Parte 79](079.md)
-- [Parte 80](080.md)
-- [Parte 81](081.md)
-- [Parte 82](082.md)
-- [Parte 83](083.md)
-- [Parte 84](084.md)
-- [Parte 85](085.md)
-- [Parte 86](086.md)
-- [Parte 87](087.md)
-- [Parte 88](088.md)
-- [Parte 89](089.md)
-- [Parte 90](090.md)
-- [Parte 91](091.md)
-- [Parte 92](092.md)
-- [Parte 93](093.md)
-- [Parte 94](094.md)
-- [Parte 95](095.md)
-- [Parte 96](096.md)
-- [Parte 97](097.md)
-- [Parte 98](098.md)
-- [Parte 99](099.md)
-- [Parte 100](100.md)
-- [Parte 101](101.md)
-- [Parte 102](102.md)
-- [Parte 103](103.md)
-- [Parte 104](104.md)
+- Parte 1: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/001.md
+- Parte 2: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/002.md
+- Parte 3: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/003.md
+- Parte 4: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/004.md
+- Parte 5: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/005.md
+- Parte 6: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/006.md
+- Parte 7: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/007.md
+- Parte 8: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/008.md
+- Parte 9: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/009.md
+- Parte 10: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/010.md
+- Parte 11: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/011.md
+- Parte 12: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/012.md
+- Parte 13: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/013.md
+- Parte 14: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/014.md
+- Parte 15: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/015.md
+- Parte 16: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/016.md
+- Parte 17: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/017.md
+- Parte 18: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/018.md
+- Parte 19: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/019.md
+- Parte 20: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/020.md
+- Parte 21: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/021.md
+- Parte 22: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/022.md
+- Parte 23: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/023.md
+- Parte 24: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/024.md
+- Parte 25: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/025.md
+- Parte 26: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/026.md
+- Parte 27: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/027.md
+- Parte 28: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/028.md
+- Parte 29: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/029.md
+- Parte 30: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/030.md
+- Parte 31: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/031.md
+- Parte 32: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/032.md
+- Parte 33: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/033.md
+- Parte 34: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/034.md
+- Parte 35: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/035.md
+- Parte 36: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/036.md
+- Parte 37: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/037.md
+- Parte 38: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/038.md
+- Parte 39: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/039.md
+- Parte 40: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/040.md
+- Parte 41: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/041.md
+- Parte 42: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/042.md
+- Parte 43: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/043.md
+- Parte 44: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/044.md
+- Parte 45: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/045.md
+- Parte 46: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/046.md
+- Parte 47: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/047.md
+- Parte 48: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/048.md
+- Parte 49: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/049.md
+- Parte 50: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/050.md
+- Parte 51: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/051.md
+- Parte 52: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/052.md
+- Parte 53: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/053.md
+- Parte 54: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/054.md
+- Parte 55: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/055.md
+- Parte 56: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/056.md
+- Parte 57: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/057.md
+- Parte 58: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/058.md
+- Parte 59: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/059.md
+- Parte 60: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/060.md
+- Parte 61: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/061.md
+- Parte 62: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/062.md
+- Parte 63: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/063.md
+- Parte 64: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/064.md
+- Parte 65: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/065.md
+- Parte 66: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/066.md
+- Parte 67: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/067.md
+- Parte 68: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/068.md
+- Parte 69: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/069.md
+- Parte 70: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/070.md
+- Parte 71: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/071.md
+- Parte 72: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/072.md
+- Parte 73: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/073.md
+- Parte 74: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/074.md
+- Parte 75: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/075.md
+- Parte 76: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/076.md
+- Parte 77: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/077.md
+- Parte 78: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/078.md
+- Parte 79: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/079.md
+- Parte 80: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/080.md
+- Parte 81: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/081.md
+- Parte 82: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/082.md
+- Parte 83: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/083.md
+- Parte 84: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/084.md
+- Parte 85: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/085.md
+- Parte 86: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/086.md
+- Parte 87: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/087.md
+- Parte 88: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/088.md
+- Parte 89: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/089.md
+- Parte 90: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/090.md
+- Parte 91: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/091.md
+- Parte 92: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/092.md
+- Parte 93: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/093.md
+- Parte 94: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/094.md
+- Parte 95: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/095.md
+- Parte 96: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/096.md
+- Parte 97: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/097.md
+- Parte 98: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/098.md
+- Parte 99: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/099.md
+- Parte 100: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/100.md
+- Parte 101: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/101.md
+- Parte 102: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/102.md
+- Parte 103: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/103.md
+- Parte 104: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/civil/flavio-tartuce/104.md

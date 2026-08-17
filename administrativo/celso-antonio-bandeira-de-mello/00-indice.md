@@ -2,172 +2,172 @@
 
 Total de partes: 169
 
-- [Parte 1](001.md)
-- [Parte 2](002.md)
-- [Parte 3](003.md)
-- [Parte 4](004.md)
-- [Parte 5](005.md)
-- [Parte 6](006.md)
-- [Parte 7](007.md)
-- [Parte 8](008.md)
-- [Parte 9](009.md)
-- [Parte 10](010.md)
-- [Parte 11](011.md)
-- [Parte 12](012.md)
-- [Parte 13](013.md)
-- [Parte 14](014.md)
-- [Parte 15](015.md)
-- [Parte 16](016.md)
-- [Parte 17](017.md)
-- [Parte 18](018.md)
-- [Parte 19](019.md)
-- [Parte 20](020.md)
-- [Parte 21](021.md)
-- [Parte 22](022.md)
-- [Parte 23](023.md)
-- [Parte 24](024.md)
-- [Parte 25](025.md)
-- [Parte 26](026.md)
-- [Parte 27](027.md)
-- [Parte 28](028.md)
-- [Parte 29](029.md)
-- [Parte 30](030.md)
-- [Parte 31](031.md)
-- [Parte 32](032.md)
-- [Parte 33](033.md)
-- [Parte 34](034.md)
-- [Parte 35](035.md)
-- [Parte 36](036.md)
-- [Parte 37](037.md)
-- [Parte 38](038.md)
-- [Parte 39](039.md)
-- [Parte 40](040.md)
-- [Parte 41](041.md)
-- [Parte 42](042.md)
-- [Parte 43](043.md)
-- [Parte 44](044.md)
-- [Parte 45](045.md)
-- [Parte 46](046.md)
-- [Parte 47](047.md)
-- [Parte 48](048.md)
-- [Parte 49](049.md)
-- [Parte 50](050.md)
-- [Parte 51](051.md)
-- [Parte 52](052.md)
-- [Parte 53](053.md)
-- [Parte 54](054.md)
-- [Parte 55](055.md)
-- [Parte 56](056.md)
-- [Parte 57](057.md)
-- [Parte 58](058.md)
-- [Parte 59](059.md)
-- [Parte 60](060.md)
-- [Parte 61](061.md)
-- [Parte 62](062.md)
-- [Parte 63](063.md)
-- [Parte 64](064.md)
-- [Parte 65](065.md)
-- [Parte 66](066.md)
-- [Parte 67](067.md)
-- [Parte 68](068.md)
-- [Parte 69](069.md)
-- [Parte 70](070.md)
-- [Parte 71](071.md)
-- [Parte 72](072.md)
-- [Parte 73](073.md)
-- [Parte 74](074.md)
-- [Parte 75](075.md)
-- [Parte 76](076.md)
-- [Parte 77](077.md)
-- [Parte 78](078.md)
-- [Parte 79](079.md)
-- [Parte 80](080.md)
-- [Parte 81](081.md)
-- [Parte 82](082.md)
-- [Parte 83](083.md)
-- [Parte 84](084.md)
-- [Parte 85](085.md)
-- [Parte 86](086.md)
-- [Parte 87](087.md)
-- [Parte 88](088.md)
-- [Parte 89](089.md)
-- [Parte 90](090.md)
-- [Parte 91](091.md)
-- [Parte 92](092.md)
-- [Parte 93](093.md)
-- [Parte 94](094.md)
-- [Parte 95](095.md)
-- [Parte 96](096.md)
-- [Parte 97](097.md)
-- [Parte 98](098.md)
-- [Parte 99](099.md)
-- [Parte 100](100.md)
-- [Parte 101](101.md)
-- [Parte 102](102.md)
-- [Parte 103](103.md)
-- [Parte 104](104.md)
-- [Parte 105](105.md)
-- [Parte 106](106.md)
-- [Parte 107](107.md)
-- [Parte 108](108.md)
-- [Parte 109](109.md)
-- [Parte 110](110.md)
-- [Parte 111](111.md)
-- [Parte 112](112.md)
-- [Parte 113](113.md)
-- [Parte 114](114.md)
-- [Parte 115](115.md)
-- [Parte 116](116.md)
-- [Parte 117](117.md)
-- [Parte 118](118.md)
-- [Parte 119](119.md)
-- [Parte 120](120.md)
-- [Parte 121](121.md)
-- [Parte 122](122.md)
-- [Parte 123](123.md)
-- [Parte 124](124.md)
-- [Parte 125](125.md)
-- [Parte 126](126.md)
-- [Parte 127](127.md)
-- [Parte 128](128.md)
-- [Parte 129](129.md)
-- [Parte 130](130.md)
-- [Parte 131](131.md)
-- [Parte 132](132.md)
-- [Parte 133](133.md)
-- [Parte 134](134.md)
-- [Parte 135](135.md)
-- [Parte 136](136.md)
-- [Parte 137](137.md)
-- [Parte 138](138.md)
-- [Parte 139](139.md)
-- [Parte 140](140.md)
-- [Parte 141](141.md)
-- [Parte 142](142.md)
-- [Parte 143](143.md)
-- [Parte 144](144.md)
-- [Parte 145](145.md)
-- [Parte 146](146.md)
-- [Parte 147](147.md)
-- [Parte 148](148.md)
-- [Parte 149](149.md)
-- [Parte 150](150.md)
-- [Parte 151](151.md)
-- [Parte 152](152.md)
-- [Parte 153](153.md)
-- [Parte 154](154.md)
-- [Parte 155](155.md)
-- [Parte 156](156.md)
-- [Parte 157](157.md)
-- [Parte 158](158.md)
-- [Parte 159](159.md)
-- [Parte 160](160.md)
-- [Parte 161](161.md)
-- [Parte 162](162.md)
-- [Parte 163](163.md)
-- [Parte 164](164.md)
-- [Parte 165](165.md)
-- [Parte 166](166.md)
-- [Parte 167](167.md)
-- [Parte 168](168.md)
-- [Parte 169](169.md)
+- Parte 1: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/001.md
+- Parte 2: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/002.md
+- Parte 3: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/003.md
+- Parte 4: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/004.md
+- Parte 5: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/005.md
+- Parte 6: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/006.md
+- Parte 7: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/007.md
+- Parte 8: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/008.md
+- Parte 9: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/009.md
+- Parte 10: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/010.md
+- Parte 11: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/011.md
+- Parte 12: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/012.md
+- Parte 13: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/013.md
+- Parte 14: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/014.md
+- Parte 15: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/015.md
+- Parte 16: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/016.md
+- Parte 17: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/017.md
+- Parte 18: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/018.md
+- Parte 19: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/019.md
+- Parte 20: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/020.md
+- Parte 21: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/021.md
+- Parte 22: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/022.md
+- Parte 23: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/023.md
+- Parte 24: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/024.md
+- Parte 25: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/025.md
+- Parte 26: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/026.md
+- Parte 27: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/027.md
+- Parte 28: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/028.md
+- Parte 29: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/029.md
+- Parte 30: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/030.md
+- Parte 31: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/031.md
+- Parte 32: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/032.md
+- Parte 33: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/033.md
+- Parte 34: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/034.md
+- Parte 35: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/035.md
+- Parte 36: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/036.md
+- Parte 37: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/037.md
+- Parte 38: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/038.md
+- Parte 39: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/039.md
+- Parte 40: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/040.md
+- Parte 41: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/041.md
+- Parte 42: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/042.md
+- Parte 43: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/043.md
+- Parte 44: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/044.md
+- Parte 45: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/045.md
+- Parte 46: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/046.md
+- Parte 47: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/047.md
+- Parte 48: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/048.md
+- Parte 49: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/049.md
+- Parte 50: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/050.md
+- Parte 51: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/051.md
+- Parte 52: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/052.md
+- Parte 53: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/053.md
+- Parte 54: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/054.md
+- Parte 55: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/055.md
+- Parte 56: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/056.md
+- Parte 57: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/057.md
+- Parte 58: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/058.md
+- Parte 59: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/059.md
+- Parte 60: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/060.md
+- Parte 61: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/061.md
+- Parte 62: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/062.md
+- Parte 63: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/063.md
+- Parte 64: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/064.md
+- Parte 65: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/065.md
+- Parte 66: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/066.md
+- Parte 67: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/067.md
+- Parte 68: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/068.md
+- Parte 69: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/069.md
+- Parte 70: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/070.md
+- Parte 71: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/071.md
+- Parte 72: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/072.md
+- Parte 73: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/073.md
+- Parte 74: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/074.md
+- Parte 75: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/075.md
+- Parte 76: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/076.md
+- Parte 77: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/077.md
+- Parte 78: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/078.md
+- Parte 79: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/079.md
+- Parte 80: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/080.md
+- Parte 81: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/081.md
+- Parte 82: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/082.md
+- Parte 83: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/083.md
+- Parte 84: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/084.md
+- Parte 85: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/085.md
+- Parte 86: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/086.md
+- Parte 87: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/087.md
+- Parte 88: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/088.md
+- Parte 89: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/089.md
+- Parte 90: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/090.md
+- Parte 91: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/091.md
+- Parte 92: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/092.md
+- Parte 93: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/093.md
+- Parte 94: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/094.md
+- Parte 95: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/095.md
+- Parte 96: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/096.md
+- Parte 97: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/097.md
+- Parte 98: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/098.md
+- Parte 99: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/099.md
+- Parte 100: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/100.md
+- Parte 101: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/101.md
+- Parte 102: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/102.md
+- Parte 103: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/103.md
+- Parte 104: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/104.md
+- Parte 105: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/105.md
+- Parte 106: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/106.md
+- Parte 107: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/107.md
+- Parte 108: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/108.md
+- Parte 109: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/109.md
+- Parte 110: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/110.md
+- Parte 111: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/111.md
+- Parte 112: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/112.md
+- Parte 113: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/113.md
+- Parte 114: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/114.md
+- Parte 115: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/115.md
+- Parte 116: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/116.md
+- Parte 117: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/117.md
+- Parte 118: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/118.md
+- Parte 119: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/119.md
+- Parte 120: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/120.md
+- Parte 121: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/121.md
+- Parte 122: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/122.md
+- Parte 123: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/123.md
+- Parte 124: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/124.md
+- Parte 125: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/125.md
+- Parte 126: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/126.md
+- Parte 127: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/127.md
+- Parte 128: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/128.md
+- Parte 129: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/129.md
+- Parte 130: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/130.md
+- Parte 131: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/131.md
+- Parte 132: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/132.md
+- Parte 133: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/133.md
+- Parte 134: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/134.md
+- Parte 135: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/135.md
+- Parte 136: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/136.md
+- Parte 137: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/137.md
+- Parte 138: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/138.md
+- Parte 139: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/139.md
+- Parte 140: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/140.md
+- Parte 141: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/141.md
+- Parte 142: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/142.md
+- Parte 143: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/143.md
+- Parte 144: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/144.md
+- Parte 145: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/145.md
+- Parte 146: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/146.md
+- Parte 147: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/147.md
+- Parte 148: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/148.md
+- Parte 149: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/149.md
+- Parte 150: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/150.md
+- Parte 151: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/151.md
+- Parte 152: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/152.md
+- Parte 153: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/153.md
+- Parte 154: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/154.md
+- Parte 155: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/155.md
+- Parte 156: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/156.md
+- Parte 157: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/157.md
+- Parte 158: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/158.md
+- Parte 159: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/159.md
+- Parte 160: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/160.md
+- Parte 161: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/161.md
+- Parte 162: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/162.md
+- Parte 163: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/163.md
+- Parte 164: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/164.md
+- Parte 165: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/165.md
+- Parte 166: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/166.md
+- Parte 167: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/167.md
+- Parte 168: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/168.md
+- Parte 169: https://raw.githubusercontent.com/romaodosreissantos-prog/acervo-conselheiro-juridico/main/administrativo/celso-antonio-bandeira-de-mello/169.md
